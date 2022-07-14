@@ -1447,6 +1447,7 @@ from .videomore import (
 from .videopress import VideoPressIE
 from .vidio import VidioIE
 from .vidlii import VidLiiIE
+from .vidlox import VIDLOXIE
 from .vidme import (
     VidmeIE,
     VidmeUserIE,
